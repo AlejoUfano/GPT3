@@ -1,0 +1,5 @@
+export { defautl as Article } from './article/Article'
+export { defautl as Brand } from './brand/Brand'
+export { defautl as CTA } from './cta/CTA'
+export { defautl as NavBar } from './navbar/NavBar'
+export { defautl as Feature } from './feature/Feature'
