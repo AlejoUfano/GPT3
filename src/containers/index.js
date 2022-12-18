@@ -1,0 +1,6 @@
+export { defautl as Blog } from './blog/Blog'
+export { defautl as Features } from './features/Features'
+export { defautl as Footer } from './footer/Footer'
+export { defautl as Header } from './header/Header'
+export { defautl as Possibility } from './possibility/Possibility'
+export { defautl as WhatGPT3 } from './whatGPT3/WhatGPT3'
