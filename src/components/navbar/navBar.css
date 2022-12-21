@@ -52,7 +52,7 @@
     border-radius: 5px;
     cursor: pointer;    
 }
-.gptp__navbar-menu {
+.gpt3__navbar-menu {
     margin-left: 1rem;
     display: none;
     position: relative;
@@ -103,7 +103,7 @@
         display: none;
     }
     .gpt3__navbar-menu_container {
-        top: 50px;
+        top: 20px;
     }
     .gpt3__navbar-menu_container-links-sign {
         display: block;
