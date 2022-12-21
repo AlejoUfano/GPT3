@@ -11,7 +11,7 @@ a {
     color: unset;
     text-decoration: none;
 }
-.gradientBg {
+.gradient__bg {
     /* ff 3.6+ */
     background:-moz-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
 
@@ -27,16 +27,16 @@ a {
     /* global 92%+ browsers support */
     background:radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
 }
-.gradientText {
+.gradient__text {
     background: var(--gradient-text);
     background-clip: text;
     -webkit-background-clop: text;
     -webkit-text-fill-color: transparent;
 }
-.secitonPadding {
+.section__padding {
     padding: 4rem 6rem;
 }
-.secitonMargin {
+.seciton__margin {
     margin: 4rem 6rem;
 }
 .scale-up-center {
