@@ -36,7 +36,7 @@ a {
 .section__padding {
     padding: 4rem 6rem;
 }
-.seciton__margin {
+.section__margin {
     margin: 4rem 6rem;
 }
 .scale-up-center {
@@ -64,18 +64,18 @@ a {
     }
   }
   @media screen and (max-width: 768px) {
-    .secitonPadding {
+    .section__padding {
         padding: 4rem;
     }
-    .secitonMargin {
+    .section__margin {
         margin: 4rem;
     }
   }
   @media screen and (max-width: 550) {
-    .secitonPadding {
+    .section__padding {
         padding: 4rem 2rem;
     }
-    .secitonMargin {
+    .section__margin {
         margin: 4rem 2rem;
     }
   }
